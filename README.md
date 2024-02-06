@@ -3,6 +3,6 @@ React All Topics and Projects available here..
 
 To run this projects:
 
-- npm init
+- npm install
 
 Please carefully to check node_modules available
